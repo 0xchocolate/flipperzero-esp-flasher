@@ -25,6 +25,6 @@ App(
                 cdefines=["SERIAL_FLASHER_INTERFACE_UART=1", "MD5_ENABLED=1", "SERIAL_FLASHER_WRITE_BLOCK_RETRIES=10"],
             ),
         ],
-    cdefines=["SERIAL_FLASHER_INTERFACE_UART=1"],
+    cdefines=["SERIAL_FLASHER_INTERFACE_UART=1", "MD5_ENABLED=1", "SERIAL_FLASHER_WRITE_BLOCK_RETRIES=10"],
     fap_icon_assets="assets",
 )
