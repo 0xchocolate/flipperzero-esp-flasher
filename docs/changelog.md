@@ -1,8 +1,13 @@
+## v1.6
+
+No functional changes, just fixing the build after apparent toolchain updates on dev.
+
+<3 @0xchocolate (cococode)
+
+
 ## v1.5
 
 Fixes app to build with the new API. Thanks @Willy-JL for doing the hard part!
-
-<3 @0xchocolate (cococode)
 
 
 ## v1.4
